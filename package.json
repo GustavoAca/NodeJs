@@ -1,0 +1,12 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Aprendendo nodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "vai":"node src/index.js"
+  },
+  "author": "Gustavo Acácio",
+  "license": "ISC"
+}
